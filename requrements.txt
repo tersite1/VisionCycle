@@ -1,0 +1,7 @@
+tensorflow
+torch
+opencv-python
+bpy
+Pillow
+numpy
+PyOpenGL
