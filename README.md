@@ -26,6 +26,11 @@ Required Python packages:
 - TensorFlow
 - PyTorch
 - OpenCV
+- bpy
+- pillow
+- numpy
+- OpenGL
+- CUDA (if it possbile)
 
 Install dependencies:
 
