@@ -1,8 +1,7 @@
-# VisionCycle-Auto-Labeling-Pipieline-Using-NeRF
-Using NeRF, This Pipeline secures a large number of images that can be used for YOLO with a small number of images and then create a bounding box.
 
 
 # VisionCycle: Auto Labeling Pipeline using NeRF
+
 
 ## Introduction
 VisionCycle leverages Neural Radiance Fields (NeRF) to automate labeling processes for machine learning. It reconstructs a small number of 2D images into 3D using Instant NGP, renders the models from various angles to obtain new views, and automatically creates bounding boxes for YOLO training.
