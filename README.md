@@ -2,15 +2,24 @@
 
 # VisionCycle: Auto Labeling Pipeline using NeRF
 
+![logo](https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1)
+
+
 
 ## Introduction
 VisionCycle leverages Neural Radiance Fields (NeRF) to automate labeling processes for machine learning. It reconstructs a small number of 2D images into 3D using Instant NGP, renders the models from various angles to obtain new views, and automatically creates bounding boxes for YOLO training.
+
+
 
 ## Pipeline Process
 1. **2D to 3D Reconstruction**: Convert 2D photos to 3D models using Instant NGP.
 2. **3D to 2D Rendering**: Render 3D models from various angles to produce new 2D images.
 3. **Bounding Box Creation**: Auto-generate bounding boxes on the new 2D images.
 4. **YOLO Training**: Use the images for machine learning model training.
+
+<img width="1024" alt="스크린샷 2024-05-11 오후 10 32 06" src="https://github.com/tersite1/tersite1/assets/160453556/0b7cc713-7b17-4ba5-abbe-d7631e7e136d">
+
+
 
 ## Components Description
 - **`NeRF.py`**: Executes Instant NGP to transform 2D images into 3D models.
