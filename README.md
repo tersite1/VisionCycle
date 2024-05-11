@@ -75,7 +75,8 @@ For improved performance, install CUDA to enable GPU acceleration. Please follow
 ```bash
 pip install -r requirements.txt
 ```
-
+<br>
+<br>
 
 
 ## Installation
@@ -85,14 +86,16 @@ cd VisionCycle
 pip install -r requirements.txt
 ```
 
-
+<br>
+<br>
 
 ## Usage
 
 ```
 python3 main.py 'path_to_dataset'
 ```
-
+<br>
+<br>
 
 
 ## Contact
