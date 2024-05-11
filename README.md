@@ -1,6 +1,6 @@
 
 
-# VisionCycle: Auto Labeling Pipeline using Neural Radience Field
+# VisionCycle : Auto Labeling Pipeline using Neural Radience Field
 
 ![logo](https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1)
 
