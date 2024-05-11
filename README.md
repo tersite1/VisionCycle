@@ -8,7 +8,6 @@
 </p>
 
 
-<br>
 
 
 ## Introduction
@@ -76,7 +75,7 @@ For improved performance, install CUDA to enable GPU acceleration. Please follow
 pip install -r requirements.txt
 ```
 <br>
-<br>
+
 
 
 ## Installation
@@ -87,7 +86,7 @@ pip install -r requirements.txt
 ```
 
 <br>
-<br>
+
 
 ## Usage
 
@@ -95,7 +94,7 @@ pip install -r requirements.txt
 python3 main.py 'path_to_dataset'
 ```
 <br>
-<br>
+
 
 
 ## Contact
