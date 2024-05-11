@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ## Installation
 ```
-git clone https://github.com/yourusername/VisionCycle.git
+git clone https://github.com/tersite1/VisionCycle.git
 cd VisionCycle
 pip install -r requirements.txt
 ```
