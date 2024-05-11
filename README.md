@@ -63,9 +63,14 @@ Required Python packages:
 - OpenGL
 - CUDA (if it possbile)
 
+#### CUDA Installation
+
+For improved performance, install CUDA to enable GPU acceleration. Please follow the official [CUDA Installation Guide](https://developer.nvidia.com/cuda-downloads) to download and install CUDA suitable for your system.
 
 
-Install dependencies:
+
+
+#### Install dependencies:
 
 ```bash
 pip install -r requirements.txt
