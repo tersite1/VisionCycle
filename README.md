@@ -40,16 +40,13 @@ VisionCycle leverages Neural Radiance Fields (NeRF) to automate labeling process
 
 
 
-<br>
-<br>
+
 
 
 ## Used Papers
 - Gao, J., Shen, T., Wang, Z., Chen, W., Yin, K., Li, D., Litany, O., Gojcic, Z. and Fidler, S., 2022. Get3d: A generative model of high quality 3d textured shapes learned from images. Advances In Neural Information Processing Systems, 35, pp.31841-31854.
 - Müller, T., Evans, A., Schied, C. and Keller, A., 2022. Instant neural graphics primitives with a multiresolution hash encoding. ACM Transactions on Graphics (TOG), 41(4), pp.1-15.
 
-<br>
-<br>
 
 ## Dependencies
 Required Python packages:
@@ -74,7 +71,7 @@ For improved performance, install CUDA to enable GPU acceleration. Please follow
 ```bash
 pip install -r requirements.txt
 ```
-<br>
+
 
 
 
@@ -85,7 +82,7 @@ cd VisionCycle
 pip install -r requirements.txt
 ```
 
-<br>
+
 
 
 ## Usage
@@ -93,7 +90,7 @@ pip install -r requirements.txt
 ```
 python3 main.py 'path_to_dataset'
 ```
-<br>
+
 
 
 
