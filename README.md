@@ -34,33 +34,33 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-** Installation
+## Installation
 ```
 git clone https://github.com/yourusername/VisionCycle.git
 cd VisionCycle
 pip install -r requirements.txt
 ```
 
-** Usage
+## Usage
 
 ```
 python3 main.py 'path_to_dataset'
 ```
 
-** Contributing
+## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-** License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-** Acknowledgement
+## Acknowledgement
 
 -  Support and funding from Yonsei University
 -  Resources provided by NVIDIA
 
-** Contact
+## Contact
 - Minsuk Jang - itcouldbe0@yonsei.ac.kr
 
 
