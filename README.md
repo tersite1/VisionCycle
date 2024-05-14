@@ -22,6 +22,7 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
   <img src="[https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1](https://github.com/tersite1/tersite1/assets/160453556/bbe5a228-6dfe-43ab-a8c1-2bc1fe0390fe)">
 </p>
 
+
 <br>
 <br>
 
@@ -34,6 +35,10 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
 4. **YOLO Training**: Use the images for machine learning model training.
 
 <img width="1024" alt="스크린샷 2024-05-11 오후 10 32 06" src="https://github.com/tersite1/tersite1/assets/160453556/0b7cc713-7b17-4ba5-abbe-d7631e7e136d">
+
+
+<img width="1100" alt="스크린샷 2024-05-12 오후 9 52 48" src="https://github.com/tersite1/tersite1/assets/160453556/28d91025-7970-435e-b29e-5aab94a5802c">
+
 
 <br>
 <br>
