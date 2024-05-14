@@ -3,18 +3,23 @@
 # VisionCycle : Auto Labeling Pipeline using Neural Radience Field
 
 
-<img width="678" alt="스크린샷 2024-05-15 오전 12 27 04" src="https://github.com/tersite1/tersite1/assets/160453556/bbe5a228-6dfe-43ab-a8c1-2bc1fe0390fe">
+<p align="center">
+  <img src="https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1">
+</p>
 
+
+
+<br>
 
 
 ## Introduction
 VisionCycle revolutionizes automated labeling for machine learning using Neural Radiance Fields (NeRF). Our algorithm, aptly named 'VisionCycle', starts by reconstructing 3D models from a minimal set of 2D images utilizing Instant NGP. It then renders these models from various angles to generate new 2D views. This cyclical transformation from 2D to 3D and back to 2D is central to our approach, enhancing the dataset generation process. Finally, VisionCycle automatically annotates these images with bounding boxes, readying them for YOLO training. This innovative cycle of vision makes the labeling process both efficient and scalable, pushing the boundaries of what automated systems can achieve in machine learning preparation.
 
 
-<img width="1100" alt="스크린샷 2024-05-12 오후 9 52 48" src="https://github.com/tersite1/tersite1/assets/160453556/28d91025-7970-435e-b29e-5aab94a5802c">
+<br>
 
 <p align="center">
-  <img src="https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1">
+  <img src="[https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1](https://github.com/tersite1/tersite1/assets/160453556/bbe5a228-6dfe-43ab-a8c1-2bc1fe0390fe)">
 </p>
 
 <br>
