@@ -3,10 +3,7 @@
 # VisionCycle : Auto Labeling Pipeline using Neural Radience Field
 
 
-<p align="center">
-  <img src="https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1">
-</p>
-
+<img width="678" alt="스크린샷 2024-05-15 오전 12 27 04" src="https://github.com/tersite1/tersite1/assets/160453556/bbe5a228-6dfe-43ab-a8c1-2bc1fe0390fe">
 
 
 
@@ -15,6 +12,10 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
 
 
 <img width="1100" alt="스크린샷 2024-05-12 오후 9 52 48" src="https://github.com/tersite1/tersite1/assets/160453556/28d91025-7970-435e-b29e-5aab94a5802c">
+
+<p align="center">
+  <img src="https://github.com/tersite1/tersite1/assets/160453556/41c721bf-ab38-4264-a3e0-23388e62fcc1">
+</p>
 
 <br>
 <br>
