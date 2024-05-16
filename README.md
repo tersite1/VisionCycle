@@ -22,7 +22,6 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
 
 
 <br>
-<br>
 
 
 
