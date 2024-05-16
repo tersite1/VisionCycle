@@ -8,10 +8,6 @@
 </p>
 
 
-
-<br>
-
-
 ## Introduction
 VisionCycle revolutionizes automated labeling for machine learning using Neural Radiance Fields (NeRF). Our algorithm, aptly named 'VisionCycle', starts by reconstructing 3D models from a minimal set of 2D images utilizing Instant NGP. It then renders these models from various angles to generate new 2D views. This cyclical transformation from 2D to 3D and back to 2D is central to our approach, enhancing the dataset generation process. Finally, VisionCycle automatically annotates these images with bounding boxes, readying them for YOLO training. This innovative cycle of vision makes the labeling process both efficient and scalable, pushing the boundaries of what automated systems can achieve in machine learning preparation.
 
