@@ -23,6 +23,11 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
 
 <br>
 
+#### You can check my Paper(Korean) ['here'](https://github.com/tersite1/tersite1/files/15329640/NeRF.pdf)
+
+<br>
+
+
 
 
 ## Pipeline Process
