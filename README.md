@@ -19,7 +19,7 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
 <br>
 
 <p align="center">
-  <img src="https://github.com/tersite1/tersite1/assets/160453556/bbe5a228-6dfe-43ab-a8c1-2bc1fe0390fe">
+  <img src="https://github.com/tersite1/tersite1/assets/160453556/94300599-78a5-4297-b160-8a8838422fc7">
 </p>
 
 
@@ -38,6 +38,8 @@ VisionCycle revolutionizes automated labeling for machine learning using Neural 
 
 
 <img width="1100" alt="스크린샷 2024-05-12 오후 9 52 48" src="https://github.com/tersite1/tersite1/assets/160453556/28d91025-7970-435e-b29e-5aab94a5802c">
+
+<img width="559" alt="스크린샷 2024-05-16 오전 1 42 31" src="https://github.com/tersite1/tersite1/assets/160453556/de57edb8-0594-48ae-88ae-499c294e53db">
 
 
 <br>
