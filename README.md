@@ -1,6 +1,6 @@
 
 
-# VisionCycle : Auto Labeling Pipeline using Neural Radience Field
+# VisionCycle : Automated Labeling Pipeline utilizing Neural Radiance Fields
 
 
 <p align="center">
