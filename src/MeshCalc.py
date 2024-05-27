@@ -13,7 +13,7 @@ def Meshcalc(file_path):
     bm.from_mesh(obj.data)
     bm.transform(obj.matrix_world)
 
-    # 최대 및 최소 좌표를 계산합니다.
+    # coordinates calc
     min_coord = [float('inf'), float('inf'), float('inf')]
     max_coord = [-float('inf'), -float('inf'), -float('inf')]
 
