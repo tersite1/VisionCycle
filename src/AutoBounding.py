@@ -4,18 +4,18 @@ import numpy as np
 import cv2
 
 def find_object_bounds(image_path):
-    # 이미지를 그레이스케일로 로드
+    # load as greyscale
     image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    # 간단한 스레시홀딩으로 객체 검출
+
     _, thresh = cv2.threshold(image, 128, 255, cv2.THRESH_BINARY)
-    # 컨투어 찾기
+  
     contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     if contours:
-        # 가장 큰 컨투어를 객체로 간주
+        # biggest contour as obeject
         c = max(contours, key=cv2.contourArea)
         x, y, w, h = cv2.boundingRect(c)
         return x, y, x + w, y + h
-    return 0, 0, image.shape[1], image.shape[0]  # 객체가 없다면 전체 이미지
+    return 0, 0, image.shape[1], image.shape[0]  
 
 def normalize_coordinates(img_width, img_height, bbox):
     x_min, y_min, x_max, y_max = bbox
@@ -24,7 +24,7 @@ def normalize_coordinates(img_width, img_height, bbox):
     bb_center_x = x_min + bb_width / 2
     bb_center_y = y_min + bb_height / 2
 
-    # YOLO 포맷으로 변환
+    # YOLO Formation
     norm_center_x = bb_center_x / img_width
     norm_center_y = bb_center_y / img_height
     norm_width = bb_width / img_width
@@ -43,7 +43,7 @@ def process_images(folder_path):
             results.append((filename, norm_coords))
     return results
 
-# 폴더 경로 지정
+
 folder_path = 'path_to_images'
 bounding_boxes = process_images(folder_path)
 for file, bbox in bounding_boxes:
